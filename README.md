@@ -1,4 +1,4 @@
-### Olá! Eu sou o Carlos Marques
+### Olá! Eu sou Carlos Marques
 
 #
 
