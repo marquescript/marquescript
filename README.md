@@ -14,7 +14,6 @@ func GetTechnologies() []string {
 		"Java",
                 "PHP",
 		"GoLang",
-		"React",
 		"PostgreSQL",
 	}
 }
