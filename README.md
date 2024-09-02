@@ -14,7 +14,6 @@ func GetTechnologies() []string {
 	return []string{
 		"Golang",
 		"Java",
-		"Spring",
-		"Angular"
+		"Spring"
 	}
 }
