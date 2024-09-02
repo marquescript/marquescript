@@ -12,10 +12,9 @@ func GetDegree() string {
 
 func GetTechnologies() []string {
 	return []string{
-		"Golang"
-		"Java"
-		"Spring"
+		"Golang",
+		"Java",
+		"Spring",
 		"Angular"
-		"PostgreSQL",
 	}
 }
