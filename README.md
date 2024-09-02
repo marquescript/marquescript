@@ -7,14 +7,15 @@ func GetCurrentWorkPosition() string {
 }
 
 func GetDegree() string {
-	return "Software engineering student - fifth semester"
+	return "Software engineering student - sixth semester"
 }
 
 func GetTechnologies() []string {
 	return []string{
-		"Typescript"
-		"Node"
-		"GoLang"
+		"Golang"
+		"Java"
+		"Spring"
+		"Angular"
 		"PostgreSQL",
 	}
 }
