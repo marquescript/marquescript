@@ -3,7 +3,7 @@
 package CarlosMarques
 
 func GetCurrentWorkPosition() string {
-	return "Back-end development intern"
+	return ""
 }
 
 func GetDegree() string {
@@ -12,7 +12,7 @@ func GetDegree() string {
 
 func GetTechnologies() []string {
 	return []string{
-		"Golang",
+		"React",
 		"Java",
 		"Spring"
 	}
