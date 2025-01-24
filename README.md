@@ -11,7 +11,7 @@ func GetTechnologies() []string {
 		"Typescript",
 		"Golang",
 		"Node",
-    "React"
+    		"React"
 	}
 
 }
