@@ -1,17 +1,17 @@
 
-```go
-package CarlosMarques
+```ts
 
-func GetDegree() string {
-	return "Software engineering student - seventh semester"
+function getDegree(): string {
+	return "Software engineering student - eighth semester"
 }
 
-func GetTechnologies() []string {
-	return []string{
+function getTechnologies(): string[] {
+	return [
 		"Typescript",
-		"Golang",
 		"Node",
-    		"React"
-	}
-
+		"React",
+		"Docker"
+	]
 }
+
+export default { getDegree, getTechnologies }
